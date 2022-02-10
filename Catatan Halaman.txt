@@ -1,0 +1,17 @@
+Halaman :
+
+Dashboard --> Dashboard
+
+Icon --> Populasi
+
+Maps --> Maps
+
+Notification --> Susu
+
+User Profile --> NON AKTIF
+
+Tabel List --> Peternakan
+
+Typography --> NON AKTIF
+
+Upgrade To Pro --> NON AKTIF
