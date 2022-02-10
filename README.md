@@ -1,4 +1,4 @@
-# [Paper Dashboard 2](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+# [Paper Dashboard 2](https://demos.creative-tim.com/paper-dashboard/examples/index.html) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/86/original/opt_pd2_thumbnail.jpg)
 
@@ -16,7 +16,7 @@ We wanted to fully display the power of this dashboard, so the kit comes packed 
 
 ## Links:
 
-+ [Live Preview](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html)
++ [Live Preview](https://demos.creative-tim.com/paper-dashboard/examples/index.html)
 + [Paper Dashboard 2 PRO](https://www.creative-tim.com/product/paper-dashboard-2-pro) (from $39)
 
 **Tutorial**
@@ -55,7 +55,7 @@ Paper Dashboard 2
 ├── docs/
 │   └── documentation.html
 ├── examples/
-│   ├── dashboard.html
+│   ├── index.html
 │   ├── populasi.html
 │   ├── map.html
 │   ├── susu.html
@@ -74,7 +74,7 @@ Paper Dashboard 2
 - Type `npm install` in terminal/console in the source folder where `package.json` is located
 - You will find all the branding colors inside `assets/scss/core/variables/_brand.scss`. You can change them with a HEX value or with other predefined variables from `assets/scss/core/variables/_colors.scss`
 - Run in terminal `gulp compile-scss` for a single compilation or gulp watch for continous compilation of the changes that you make in `*.scss` files. This command should be run in the same folder where `gulpfile.js` and `package.json` are located
-- Run in terminal `gulp open-app` for opening the Presentation Page (default) of the product. You can set in `gulpfile.js` from your downloaded archive any page you want to open in browser, `at line 30: gulp.src('./examples/dashboard.html')`
+- Run in terminal `gulp open-app` for opening the Presentation Page (default) of the product. You can set in `gulpfile.js` from your downloaded archive any page you want to open in browser, `at line 30: gulp.src('./examples/index.html')`
 
 ## Upgrade to PRO Version
 
