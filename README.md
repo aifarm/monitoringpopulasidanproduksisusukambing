@@ -56,15 +56,15 @@ Paper Dashboard 2
 │   └── documentation.html
 ├── examples/
 │   ├── dashboard.html
-│   ├── icons.html
+│   ├── populasi.html
 │   ├── map.html
-│   ├── notifications.html
-│   ├── tables.html
+│   ├── susu.html
+│   ├── peternakan.html
 │   ├── typography.html
 │   ├── upgrade.html
 │   └── user.html
 ├── gulpfile.js
-├── nucleo-icons.html
+├── nucleo-populasi.html
 └── package.json
 ```
 
